@@ -12,7 +12,7 @@ It helps users visually understand how each algorithm works and compares their p
 
 ## 🌐 Live Deployment
 👉 **Access the live application here:**  
-🔗 https://ai-application-beryl.vercel.app
+🔗 https://shortest-path-finder-8ba8.vercel.app
 
 ---
 
